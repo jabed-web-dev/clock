@@ -31,7 +31,6 @@ body {
     width: 350px;
     height: 380px;
     background-color: var(--clockbg);
-    margin-top: -60px;
     justify-content: space-evenly;
 }
 
@@ -184,3 +183,4 @@ body {
     color: var(--offcolor);
     user-select: none;
 }
+
