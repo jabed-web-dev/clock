@@ -143,7 +143,7 @@ body {
     width: 30px;
     height: 380px;
     background-color: var(--clockbg);
-    margin-top: -60px;
+    margin-top: 100px;
 }
 
 .dot-float {
@@ -184,5 +184,6 @@ body {
     color: var(--offcolor);
     user-select: none;
 }
+
 
 
